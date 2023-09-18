@@ -12,6 +12,7 @@ npm run build
 
 ## Coming Soon
 
-[ ] "dev" command
-[ ] data fetching
-[ ] markdown renderer
+[ ] "dev" command  
+[ ] data fetching  
+[ ] markdown renderer  
+[ ] config file
