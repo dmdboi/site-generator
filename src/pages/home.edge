@@ -1,5 +1,11 @@
 @main({ title })
 @slot('body')
-<strong> {{ content }} </strong>
+
+<ul>
+    @each(poke in pokemon)
+    <li>{{ poke.name }}</li>
+    @end
+</ul>
+
 @end
 @end

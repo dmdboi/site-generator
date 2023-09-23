@@ -13,5 +13,5 @@ npm run build
 ## Coming Soon
 
 [ ] "dev" command
-[ ] data fetching
+[X] data fetching
 [ ] markdown renderer
